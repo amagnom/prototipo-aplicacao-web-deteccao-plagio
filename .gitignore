@@ -1,0 +1,39 @@
+# idea
+detectorplagio/.idea
+
+# pycache
+__pycache__/
+init.py
+
+# staticfiles
+detectorplagio/staticfiles
+
+#package-lock
+detectorplagio/package-lock.json
+
+# dependencies
+detectorplagio/node_modules
+detectorplagio/.pnp
+detectorplagio/.pnp.js
+
+# testing
+detectorplagio/coverage
+
+# production
+detectorplagio/build
+
+# misc
+detectorplagio/.DS_Store
+detectorplagio/.env.local
+detectorplagio/.env.development.local
+detectorplagio/.env.test.local
+detectorplagio/.env.production.local
+
+detectorplagio/npm-debug.log*
+detectorplagio/yarn-debug.log*
+detectorplagio/yarn-error.log*
+
+
+#others
+detectorplagio/Procfile
+detectorplagio/runtime.txt
