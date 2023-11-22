@@ -15,3 +15,4 @@ Focando nos casos de plágio ofuscado, ou seja, quando a pessoa altera as palavr
 - Gera um relatório detalhado com as sentenças plagiadas dos documentos
 
 
+![Print - 1](https://github.com/amagnom/prototipo-aplicacao-web-deteccao-plagio/blob/main/Pic1.PNG)
