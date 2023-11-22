@@ -1,7 +1,7 @@
 # Detector de Plágio
-## Arildo Magno
 
 O presente código trata do meu trabalho de conclusão de curso sobre detecção de plágio.
+Focando nos casos de plágio ofuscado, ou seja, quando a pessoa altera as palavras dos textos para tentar enganar a detecção simples.
 
 - Detecção de plágio
 - Projeto Web
